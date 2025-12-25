@@ -1,0 +1,15 @@
+
+Ticket: 2
+Customer: Jessica Rios
+Email: rmorgan@example.net
+Phone: (679)327-9294
+SSN: 818-34-7935
+
+Issue: I'm having an issue with the {product_purchased}. Please assist.
+
+If you need to change an existing product.
+
+I'm having an issue with the {product_purchased}. Please assist.
+
+If The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.
+        

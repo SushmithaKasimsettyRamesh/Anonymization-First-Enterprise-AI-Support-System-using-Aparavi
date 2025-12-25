@@ -1,0 +1,12 @@
+
+Ticket: 5
+Customer: Alexander Carroll
+Email: walterswilliam@example.com
+Phone: (419)997-3675
+SSN: 601-88-1987
+
+Issue: I'm having an issue with the {product_purchased}. Please assist.
+
+
+Note: The seller is not responsible for any damages arising out of the delivery of the battleground game. Please have the game in good condition and shipped to you I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.
+        

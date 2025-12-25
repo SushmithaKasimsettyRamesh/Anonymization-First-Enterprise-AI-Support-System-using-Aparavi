@@ -1,0 +1,15 @@
+
+Ticket: 1
+Customer: Marisa Obrien
+Email: sheri75@example.net
+Phone: 001-877-774-3597
+SSN: 489-90-0248
+
+Issue: I'm having an issue with the {product_purchased}. Please assist.
+
+Your billing zip code is: 71701.
+
+We appreciate that you have requested a website address.
+
+Please double check your email address. I've tried troubleshooting steps mentioned in the user manual, but the issue persists.
+        

@@ -1,0 +1,11 @@
+
+Ticket: 3
+Customer: Christopher Robbins
+Email: cphillips@example.org
+Phone: (713)345-8347x550
+SSN: 872-03-7109
+
+Issue: I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond.
+
+1.8.3 I really I'm using the original charger that came with my {product_purchased}, but it's not charging properly.
+        
