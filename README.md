@@ -1,4 +1,4 @@
-# Anonymization-First-Enterprise-AI-Support-System-using-Aparavi
+# Anonymization-First-Enterprise-AI-Support-System
 
 
 ## The Problem
